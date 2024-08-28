@@ -1,6 +1,6 @@
 Name:		texlive-bmstu-iu8
-Version:	61937
-Release:	2
+Version:	72055
+Release:	1
 Summary:	A class for IU8 reports
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bmstu-iu8
