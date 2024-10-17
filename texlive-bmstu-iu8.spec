@@ -3,7 +3,7 @@ Version:	72055
 Release:	1
 Summary:	A class for IU8 reports
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bmstu-iu8
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bmstu-iu8
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bmstu-iu8.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bmstu-iu8.doc.r%{version}.tar.xz
