@@ -1,5 +1,5 @@
 Name:		texlive-bmstu-iu8
-Version:	72055
+Version:	72693
 Release:	1
 Summary:	A class for IU8 reports
 Group:		Publishing
